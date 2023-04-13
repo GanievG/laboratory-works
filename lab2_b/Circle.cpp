@@ -1,5 +1,5 @@
 #include "Circle.h"
-
+//
 Circle::Circle(const int& x, const int& y, const int& radius) : m_x(x), m_y(y), m_radius(radius) {}
 
 void Circle::Draw(HDC hdc) 
