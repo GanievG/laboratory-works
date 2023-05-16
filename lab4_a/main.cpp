@@ -1,6 +1,6 @@
 ﻿
 #include"Header.h"
-// Колличество совподает
+// Колличество совпадает
 
 int main() {
     Database db;
